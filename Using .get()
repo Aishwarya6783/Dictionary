@@ -1,0 +1,7 @@
+student = {
+    "name": "Aish",
+    "age": 21
+}
+
+print(student.get("name"))
+print(student.get("city"))
