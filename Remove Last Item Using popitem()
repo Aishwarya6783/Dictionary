@@ -1,0 +1,5 @@
+student = {"name": "Aish","age": 21,"city": "Pune"}
+
+student.popitem()
+
+print(student)
